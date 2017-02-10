@@ -1,0 +1,8 @@
+v2.1.7
+changes from Anonymous addon
+
+v2.1.6
+links changed to Pastebin
+
+v2.1.5
+Major changes. Based on Shanis LiveStreams Pro, plugin.video.wizchannels
